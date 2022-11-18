@@ -1,0 +1,17 @@
+{
+    "name": "My first plugin",
+    "description":"Practice of the k8s",
+    "version": "1.0.0",
+    "author": "Amit kumar",
+    "repository": "https://github.com/hackeramitkumar/monakle-templates-plugin",
+    "monoklePlugin": {
+        "id": "com.github.kunal-kushwaha.plugin.templates",
+		"helpUrl": "https://github.com/hackeramitkumar/monokle-templates-plugin",
+        "modules": [
+            {
+                "type": "template",
+                "path": "basic-pod-template"
+            }
+        ]
+    }
+  }
