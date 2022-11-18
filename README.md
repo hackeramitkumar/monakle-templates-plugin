@@ -1,0 +1,1 @@
+# monakle-templates-plugin
